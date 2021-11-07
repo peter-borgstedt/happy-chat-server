@@ -1,0 +1,24 @@
+{
+  "files.eol": "\n",
+  "java.codeGeneration.generateComments": true,
+  "java.debug.settings.hotCodeReplace": "auto",
+  "java.autobuild.enabled": true,
+  "java.saveActions.organizeImports": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.completion.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "java.completion.filteredTypes" : [
+    "java.awt.List",
+    "com.sun.*"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  }
+}
